@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm a Cyber Security Enthusiast from INDIA<br><br>- 🔭 I’m a Student<br>- 📚 I'm currently learning Ethical Hacking<br>- ⚡ I want to be an Ethical Hacker</p>
+<p align="left">I'm a Cyber Security Enthusiast from INDIA<br><br>- 🔭 I’m a Student<br>- 📚 I'm currently pursuing my Bachelor Degree<br>- ⚡ I want to be an Ethical Hacker</p>
 
 ###
 
