@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src=".github/workflows/[removal.ai]_ccd5635c-2d7d-4f9e-aa11-a0e4acca3359-hacker-hacking-vector-png-images-hacker-wearing-hoodie-and-using-laptop-computer-freak-hacking-and-malware-concept-geek-digital-hackers-scammer-phishing-mysterious-fra.png"  />
+  <img height="150" src="Premium_Vector___Hacker_using_notebook_against_cyber_security_vector_illustration-removebg-preview.png" />
 </div>
 
 ###
