@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3299323" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/jagadeeshsecops.png" alt="Your Image Badge" />
 </div>
 
 ###
